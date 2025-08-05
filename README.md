@@ -31,11 +31,12 @@ These represent approximate daily yield values on US Treasury securities.
 - Bond option pricing using QuantLib
 - Real-time data acquisition via `yfinance`
 
-## 🗂️ Files
-.
-├── prices.py # Main script: data pulling, yield curve fitting, pricing
-├── prices.csv # CSV file (optional: can save latest yield data snapshot)
-└── README.md # This file
+## 📂 Files
+
+- `prices.py`: Main script for data pulling, yield curve fitting, and pricing
+- `prices.csv`: Optional CSV file to save latest yield data snapshot
+- `README.md`: This file
+
 
 ## 📦 Dependencies
 
