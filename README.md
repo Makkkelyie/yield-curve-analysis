@@ -1,4 +1,4 @@
-# Yield Curve Analysis with QuantLib and yfinance 📉📈
+# Yield Curve Construction & Fixed Income Analytics 📉📈
 
 This project performs yield curve analysis using real-time US Treasury yield data. It demonstrates how to fit a yield curve, price bonds, and visualize interest rate dynamics using Python and QuantLib.
 
